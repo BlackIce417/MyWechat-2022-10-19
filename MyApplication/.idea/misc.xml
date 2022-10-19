@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/MyApplication/app/src/main/res/drawable-v24/contacts.xml" value="0.2255" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/MyApplication/app/src/main/res/drawable-v24/contacts2.xml" value="0.2255" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/MyApplication/app/src/main/res/drawable-v24/discover1.xml" value="0.2255" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/MyApplication/app/src/main/res/drawable-v24/discover2.xml" value="0.2255" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/MyApplication/app/src/main/res/drawable-v24/myself1.xml" value="0.2255" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/MyApplication/app/src/main/res/drawable-v24/myself2.xml" value="0.2255" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/MyApplication/app/src/main/res/drawable-v24/wechat1.xml" value="0.2215" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/MyApplication/app/src/main/res/drawable-v24/wechat2.xml" value="0.2215" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/common_bg.xml" value="0.2305" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_discover.xml" value="0.24947916666666667" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_discover_result.xml" value="0.24947916666666667" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.22146739130434784" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_my_adapter.xml" value="0.2418478260869565" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_wechat.xml" value="0.25364583333333335" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/MyApplication/app/src/main/res/layout/bottom.xml" value="0.264" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/MyApplication/app/src/main/res/layout/contacts.xml" value="0.24583333333333332" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/MyApplication/app/src/main/res/layout/contacts_window.xml" value="0.23505434782608695" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/MyApplication/app/src/main/res/layout/discover.xml" value="0.24583333333333332" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/MyApplication/app/src/main/res/layout/discover_window.xml" value="0.23505434782608695" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_contacts.xml" value="0.24947916666666667" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_discover.xml" value="0.24583333333333332" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_find_contacts.xml" value="0.12335359675785208" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_myself.xml" value="0.24583333333333332" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_wechat.xml" value="0.10677083333333333" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/MyApplication/app/src/main/res/layout/item.xml" value="0.20425724637681159" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/MyApplication/app/src/main/res/layout/item1.xml" value="0.24947916666666667" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/MyApplication/app/src/main/res/layout/item2.xml" value="0.24583333333333332" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/MyApplication/app/src/main/res/layout/item3.xml" value="0.24583333333333332" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/MyApplication/app/src/main/res/layout/item_contacts.xml" value="0.23731884057971014" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/MyApplication/app/src/main/res/layout/item_discover.xml" value="0.4" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/MyApplication/app/src/main/res/layout/item_wechat.xml" value="0.24947916666666667" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/MyApplication/app/src/main/res/layout/layout.xml" value="0.264" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/MyApplication/app/src/main/res/layout/my_news_list.xml" value="0.23489583333333333" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/MyApplication/app/src/main/res/layout/myself.xml" value="0.24583333333333332" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/MyApplication/app/src/main/res/layout/myself_window.xml" value="0.23505434782608695" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/MyApplication/app/src/main/res/layout/top.xml" value="0.264" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/MyApplication/app/src/main/res/layout/wechat_window.xml" value="0.23505434782608695" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/MyApplication/app/src/main/res/layout/window_contacts.xml" value="0.25364583333333335" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/MyApplication/app/src/main/res/layout/window_discover.xml" value="0.25364583333333335" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/MyApplication/app/src/main/res/layout/window_myself.xml" value="0.25364583333333335" />
+        <entry key="..\:/AndroidStudio/AndroidStudioProjects/MyApplication/app/src/main/res/layout/window_wechat.xml" value="0.25364583333333335" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.25364583333333335" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
